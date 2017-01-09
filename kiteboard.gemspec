@@ -25,4 +25,5 @@ Gem::Specification.new do |spec|
   spec.add_dependency "jquery-ui-rails", "~> 5.0.5"
   spec.add_dependency "rickshaw-rails", "~> 1.5.0"
   spec.add_dependency "gridstack-js-rails", "~> 0.2.3"
+  spec.add_dependency "font-awesome-rails", "~> 4.7"
 end
